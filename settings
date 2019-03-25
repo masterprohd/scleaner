@@ -2,9 +2,8 @@
   "id_app": "",
   "times_clicked": 5,
   "times_clicked_iap": 5,
-  "servers_test: "http://api.netspeedtestmaster.com/st/v3/resources/list/?app_type=2",
-  "iap_identifiers": [
-  ],
+  "servers_test": "http://api.netspeedtestmaster.com/st/v3/resources/list/?app_type=2",
+  "iap_identifiers": [],
   "iap_info": [
     {
       "title": "No ads",
