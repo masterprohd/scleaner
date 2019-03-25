@@ -2,7 +2,7 @@
   "id_app": "",
   "times_clicked": 5,
   "times_clicked_iap": 5,
-  "servers_test": "http://api.netspeedtestmaster.com/st/v3/resources/list/?app_type=2",
+  "servers_test": "http://speedsmart.veeapps.com/serversJSON.php?lat=%@&lon=%@",
   "iap_identifiers": [],
   "iap_info": [
     {
