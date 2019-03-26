@@ -26,5 +26,12 @@
       "id_app": "3089877",
       "type": "unity"
     }
+  ],
+  "banner_priority": [
+    "admob"
+  ],
+  "popup_priority": [
+    "admob",
+    "unity"
   ]
 }
