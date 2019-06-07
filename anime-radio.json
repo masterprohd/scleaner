@@ -1,0 +1,1514 @@
+[
+    {
+        "icon": "https://i3.radionomy.com/radios/400/42aa3bbe-7b37-4bc7-83fa-3523cddb434d.png",
+        "bitrates": [
+            {
+                "rate": "348",
+                "url": "http://streaming.radionomy.com/-F-A-Radio-Animes",
+                "player": "vitamio"
+            }
+        ],
+        "name": "[F-A]Radio-Animes",
+        "id": "[F-A]Radio-Animes",
+        "Country": "France",
+        "Type": "Anime, Opening/Ending"
+    },
+    {
+        "icon": "https://j1fm.com/images/a-chan_500.png",
+        "bitrates": [
+            {
+                "rate": "128",
+                "url": "http://achan.j1fm.tokyo/j1a.pls",
+                "player": "vitamio"
+            }
+        ],
+        "name": "A-chan (Aチャン): the Anime channel from J1",
+        "id": "A-chan (Aチャン): the Anime channel from J1",
+        "Country": "United States of America",
+        "Type": "japanese hits,soundtracks,anime,jpop"
+    },
+    {
+        "icon": "http://www.animeblastradio.com/favicon.ico",
+        "bitrates": [
+            {
+                "rate": "64",
+                "url": "http://curiosity.shoutca.st:6110",
+                "player": "vitamio"
+            }
+        ],
+        "name": "Anime Blast Radio - The BLAST",
+        "id": "Anime Blast Radio - The BLAST",
+        "Country": "United States of America",
+        "Type": "jpop,moe,anison,anime"
+    },
+    {
+        "icon": "https://i3.radionomy.com/radios/400/e1a274e2-fffc-400f-b862-b8f3c94072b9.png",
+        "bitrates": [
+            {
+                "rate": "321",
+                "url": "http://streaming.radionomy.com/AnimeExtremonet",
+                "player": "vitamio"
+            }
+        ],
+        "name": "Anime Extremo.net",
+        "id": "Anime Extremo.net",
+        "Country": "Peru",
+        "Type": "Online listen Anime, Anime Extremo, Music Streaming ,Radio Anime, Openings y Endings . "
+    },
+    {
+        "icon": "http://cdn-radiotime-logos.tunein.com/s263721q.png",
+        "bitrates": [
+            {
+                "rate": "12",
+                "url": "http://streaming.radionomy.com/AnimeFandomRadio",
+                "player": "vitamio"
+            }
+        ],
+        "name": "Anime Fandom Radio",
+        "id": "Anime Fandom Radio",
+        "Country": "Canada",
+        "Type": "Anime Fandom Radio plays non-stop music from popular Anime covering a variety of years and genres. "
+    },
+    {
+        "icon": "http://cdn-radiotime-logos.tunein.com/s105498q.png",
+        "bitrates": [
+            {
+                "rate": "7400",
+                "url": "http://animelayer.ru:5190/play",
+                "player": "vitamio"
+            }
+        ],
+        "name": "Anime Layer Radio",
+        "id": "Anime Layer Radio",
+        "Country": "Russia",
+        "Type": "Ресурс, полностью посвящённый аниме, манге и японской поп-культуре в целом. "
+    },
+    {
+        "icon": "https://i3.radionomy.com/radios/400/a3cf9888-1bbb-449e-9e1d-ec566fb0d6a5.jpg",
+        "bitrates": [
+            {
+                "rate": "56000",
+                "url": "http://listen.radionomy.com/animematsuriradio",
+                "player": "vitamio"
+            }
+        ],
+        "name": "Anime Matsuri Radio",
+        "id": "Anime Matsuri Radio",
+        "Country": "United States",
+        "Type": "Anime Matsuri, the Japanese culture convention in Houston, Texas."
+    },
+    {
+        "icon": "https://i3.radionomy.com/radios/400/7741161a-47e3-481e-8102-06d4a0d9b748.jpg",
+        "bitrates": [
+            {
+                "rate": "280",
+                "url": "http://streaming.radionomy.com/AnimeMega",
+                "player": "vitamio"
+            }
+        ],
+        "name": "Anime Mega",
+        "id": "Anime Mega",
+        "Country": "Internet",
+        "Type": "Radio Anime-Mega, nueva radio con buenos J-Pop, J-Rock y soundtracks"
+    },
+    {
+        "icon": "http://cdn-radiotime-logos.tunein.com/s108601q.png",
+        "bitrates": [
+            {
+                "rate": "57900",
+                "url": "http://radio.animenexus.net:8000/animenexus-relay",
+                "player": "vitamio"
+            }
+        ],
+        "name": "Anime Nexus",
+        "id": "Anime Nexus",
+        "Country": "Mexico",
+        "Type": "La emisora de música anime más importante y más escuchada de América Latina. "
+    },
+    {
+        "icon": "http://cdn-radiotime-logos.tunein.com/s155743q.png",
+        "bitrates": [
+            {
+                "rate": "15400",
+                "url": "http://animeobsesion.net:8000/;",
+                "player": "vitamio"
+            }
+        ],
+        "name": "Anime Obsesion",
+        "id": "Anime Obsesion",
+        "Country": "Peru",
+        "Type": "Somos una Radio con J-Music las 24/7"
+    },
+    {
+        "icon": "http://cdn-radiotime-logos.tunein.com/s263609q.png",
+        "bitrates": [
+            {
+                "rate": "13",
+                "url": "http://listen.radionomy.com/animeradioexp",
+                "player": "vitamio"
+            }
+        ],
+        "name": "Anime Radio Exp",
+        "id": "Anime Radio Exp",
+        "Country": "United States",
+        "Type": "Anime Radio Experience (ARE) provides streaming radio content for the best in anime music from popular anime."
+    },
+    {
+        "icon": "http://cdn-radiotime-logos.tunein.com/s180708q.png",
+        "bitrates": [
+            {
+                "rate": "3100",
+                "url": "http://listen.radionomy.com/animeradiotenshi---",
+                "player": "vitamio"
+            }
+        ],
+        "name": "Anime Radio Tenshi",
+        "id": "Anime Radio Tenshi",
+        "Country": "El Salvador",
+        "Type": "Radio anime de los amantes de la musica en halta definicion las 24 hors"
+    },
+    {
+        "icon": "http://cdn-radiotime-logos.tunein.com/s254605q.png",
+        "bitrates": [
+            {
+                "rate": "561",
+                "url": "http://149.255.59.164:8049/stream",
+                "player": "vitamio"
+            }
+        ],
+        "name": "Anime Radio UK",
+        "id": "Anime Radio UK",
+        "Country": "United Kingdom",
+        "Type": "The Home of Japanese Music"
+    },
+    {
+        "icon": "https://i3.radionomy.com/radios/400/4a925330-1fd3-4e0f-b498-2c308876dcac.png",
+        "bitrates": [
+            {
+                "rate": "8",
+                "url": "http://listen.radionomy.com/animeradioxd",
+                "player": "vitamio"
+            }
+        ],
+        "name": "Anime Radio xD",
+        "id": "Anime Radio xD",
+        "Country": "Ecuador",
+        "Type": "ANIME PLUS RADIO tu musica anime es una estacion creada para dar a conocer los mejores opening y ending de serie anime y también hemos integrado el (noticiero anime) y mucho mas en ANIME RADIO XD"
+    },
+    {
+        "icon": "https://static-media.streema.com/media/cache/ac/5b/ac5beb81b1de03f3f539b7fc67babcde.jpg",
+        "bitrates": [
+            {
+                "rate": "287",
+                "url": "http://streaming.radionomy.com/AnimeRadioNet",
+                "player": "vitamio"
+            }
+        ],
+        "name": "Anime Radionet",
+        "id": "Anime Radionet",
+        "Country": "Peru",
+        "Type": "Tu Radio, Tu Musica..!!"
+    },
+    {
+        "icon": "https://i3.radionomy.com/radios/400/d9f489c9-235b-41ef-bbf0-921002049d47.png",
+        "bitrates": [
+            {
+                "rate": "286",
+                "url": "http://streaming.radionomy.com/Anime-stereo",
+                "player": "vitamio"
+            }
+        ],
+        "name": "Anime Stereo",
+        "id": "Anime Stereo",
+        "Country": "",
+        "Type": "Anime"
+    },
+    {
+        "icon": "http://cdn-radiotime-logos.tunein.com/s178372q.png",
+        "bitrates": [
+            {
+                "rate": "1600",
+                "url": "http://listen.radionomy.com/animesymphony",
+                "player": "vitamio"
+            }
+        ],
+        "name": "Anime Symphony",
+        "id": "Anime Symphony",
+        "Country": "Venezuela",
+        "Type": "Anime Simphony La Radio #1, Anime, Rock, Video Juegos y Mas "
+    },
+    {
+        "icon": "http://cdn-radiotime-logos.tunein.com/s257550q.png",
+        "bitrates": [
+            {
+                "rate": "382",
+                "url": "http://listen.radionomy.com/animetoday",
+                "player": "vitamio"
+            }
+        ],
+        "name": "Anime Today",
+        "id": "Anime Today",
+        "Country": "United States",
+        "Type": "The most recent opening & ending songs from the latest anime shows"
+    },
+    {
+        "icon": "http://cdn-radiotime-logos.tunein.com/s95216q.png",
+        "bitrates": [
+            {
+                "rate": "5900",
+                "url": "http://s3.mediastreaming.it:8090/",
+                "player": "vitamio"
+            }
+        ],
+        "name": "Anime Web Radio",
+        "id": "Anime Web Radio",
+        "Country": "Italy",
+        "Type": "Animenostop"
+    },
+    {
+        "icon": "https://i3.radionomy.com/radios/400/ec1da13e-863b-4add-878f-c5228f300edb.png",
+        "bitrates": [
+            {
+                "rate": "39",
+                "url": "http://streaming.radionomy.com/anime3000",
+                "player": "vitamio"
+            }
+        ],
+        "name": "Anime3000",
+        "id": "Anime3000",
+        "Country": "United States",
+        "Type": "Streaming channel featuring a multiple podcasts from Anime3000.com"
+    },
+    {
+        "icon": "https://i3.radionomy.com/radios/400/fe9adbca-219e-4410-a8ed-c5c45bfe0f27.png",
+        "bitrates": [
+            {
+                "rate": "285",
+                "url": "http://listen.radionomy.com/animecollive",
+                "player": "vitamio"
+            }
+        ],
+        "name": "Animecol Live",
+        "id": "Animecol Live",
+        "Country": "",
+        "Type": "Radio especializada en presentar los estrenos sonoros de el Anime Japones y sus noticias..."
+    },
+    {
+        "icon": "https://i3.radionomy.com/radios/400/bec2486f-add1-4ff7-95f7-86ab50527cc0.jpg",
+        "bitrates": [
+            {
+                "rate": "284",
+                "url": "http://streaming.radionomy.com/Anime-DESUstation",
+                "player": "vitamio"
+            }
+        ],
+        "name": "Anime-DESUstation",
+        "id": "Anime-DESUstation",
+        "Country": "Japan",
+        "Type": "Best Anime OP&ED songs and other good music from Japan."
+    },
+    {
+        "icon": "http://cdn-radiotime-logos.tunein.com/s236767q.png",
+        "bitrates": [
+            {
+                "rate": "4600",
+                "url": "http://stream.laut.fm/animefm",
+                "player": "vitamio"
+            }
+        ],
+        "name": "AnimeFM",
+        "id": "AnimeFM",
+        "Country": "Germany",
+        "Type": "Das Radio für Otakus. "
+    },
+    {
+        "icon": "http://cdn-radiotime-logos.tunein.com/s254202q.png",
+        "bitrates": [
+            {
+                "rate": "1700",
+                "url": "http://listen.radionomy.com/animega",
+                "player": "vitamio"
+            }
+        ],
+        "name": "Animega",
+        "id": "Animega",
+        "Country": "United States",
+        "Type": "Anime , J-Pop , Japanese Indies"
+    },
+    {
+        "icon": "http://cdn-radiotime-logos.tunein.com/s54119q.png",
+        "bitrates": [
+            {
+                "rate": "233100",
+                "url": "http://itori.animenfo.com:443",
+                "player": "vitamio"
+            }
+        ],
+        "name": "AnimeNfo Radio",
+        "id": "AnimeNfo Radio",
+        "Country": "Japan",
+        "Type": "Serving best anime music"
+    },
+    {
+        "icon": "http://cdn-radiotime-logos.tunein.com/s154070q.png",
+        "bitrates": [
+            {
+                "rate": "13100",
+                "url": "http://streaming.radionomy.com/AnimeRadioNet",
+                "player": "vitamio"
+            }
+        ],
+        "name": "Anime-Radio.net",
+        "id": "Anime-Radio.net",
+        "Country": "Peru",
+        "Type": "Anime, Jpop"
+    },
+    {
+        "icon": "https://i3.radionomy.com/radios/400/53a1c7e9-51f3-4475-bd22-7aa2b62ccb24.png",
+        "bitrates": [
+            {
+                "rate": "1588",
+                "url": "http://streaming.radionomy.com/Animes-Station",
+                "player": "vitamio"
+            }
+        ],
+        "name": "Animes Station",
+        "id": "Animes Station",
+        "Country": "France",
+        "Type": "Anime"
+    },
+    {
+        "icon": "https://i3.radionomy.com/radios/400/1deab36e-38e8-4b23-a07d-63366a6696e1.png",
+        "bitrates": [
+            {
+                "rate": "282",
+                "url": "http://listen.radionomy.com/animetakustereo",
+                "player": "vitamio"
+            }
+        ],
+        "name": "Animetaku Stereo",
+        "id": "Animetaku Stereo",
+        "Country": "",
+        "Type": "Entérate de todo lo ocurrido cada semana en el anime, manga, cine, vídeo juegos y música en #Animetaku Información constante, de esto si sabemos."
+    },
+    {
+        "icon": "http://cdn-radiotime-logos.tunein.com/s185342q.png",
+        "bitrates": [
+            {
+                "rate": "8800",
+                "url": "http://s1.radio.ru-hoster.com:8000/AniSonFM(128)",
+                "player": "vitamio"
+            }
+        ],
+        "name": "Anison.FM",
+        "id": "Anison.FM",
+        "Country": "Russia",
+        "Type": "Anime"
+    },
+    {
+        "icon": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/vvykF8aFjb.png",
+        "bitrates": [
+            {
+                "rate": "320",
+                "url": "http://anison.fm/anison.m3u",
+                "player": "vitamio"
+            }
+        ],
+        "name": "Anison.FM",
+        "id": "Anison.FM",
+        "Country": "Russia",
+        "Type": "soundtrack,anime,japanese,jpop"
+    },
+    {
+        "icon": "http://cdn-radiotime-logos.tunein.com/s162518q.png",
+        "bitrates": [
+            {
+                "rate": "1501",
+                "url": "http://aniterasuradio.com:8000/;",
+                "player": "vitamio"
+            }
+        ],
+        "name": "Aniterasu Radio",
+        "id": "Aniterasu Radio",
+        "Country": "Spain",
+        "Type": "Ponemos todo tipo de musica oriental, con programas de radio de Hip-Hop y música las 24 horas los 7 días de la semana."
+    },
+    {
+        "icon": "http://cdn-radiotime-logos.tunein.com/s97693q.png",
+        "bitrates": [
+            {
+                "rate": "56200",
+                "url": "http://mp3.fr.armitunes.com:8000/listen.pls",
+                "player": "vitamio"
+            }
+        ],
+        "name": "Armitage's Dimension",
+        "id": "Armitage's Dimension",
+        "Country": "Canada",
+        "Type": "Armitage's Dimension Streams Jpop/Jrock/Anime, 40,000+ Songs and more! "
+    },
+    {
+        "icon": "https://i3.radionomy.com/radios/400/e470d59f-abfd-4243-8283-94445a950a4c.jpg",
+        "bitrates": [
+            {
+                "rate": "5000",
+                "url": "http://listen.radionomy.com/asiadreamradiojapan",
+                "player": "vitamio"
+            }
+        ],
+        "name": "Asia DREAM Radio Japan",
+        "id": "Asia DREAM Radio Japan",
+        "Country": "",
+        "Type": "Anime , J-Pop, RNB"
+    },
+    {
+        "icon": "https://www.mediafire.com/convkey/c48c/aio98qrrbwz4mbx6g.jpg",
+        "bitrates": [
+            {
+                "rate": "2999",
+                "url": "http://listen1.myradio24.com:9000/7934",
+                "player": "vitamio"
+            }
+        ],
+        "name": "Asian Wave Japan",
+        "id": "Asian Wave Japan",
+        "Country": "Russia",
+        "Type": "J-pop, J-rock, J-metal and Anime"
+    },
+    {
+        "icon": "http://cdn-radiotime-logos.tunein.com/s189382q.png",
+        "bitrates": [
+            {
+                "rate": "1100",
+                "url": "http://65.60.2.26:5208/;",
+                "player": "vitamio"
+            }
+        ],
+        "name": "Blaze No Radio",
+        "id": "Blaze No Radio",
+        "Country": "Peru",
+        "Type": "somos una radio Peruana transmititmos musica de anime las 24 horas del dia sintonizanos :D"
+    },
+    {
+        "icon": "https://i3.radionomy.com/radios/400/d09e4f54-68fa-414e-b076-fdf76ed144f7.jpg",
+        "bitrates": [
+            {
+                "rate": "4000",
+                "url": "http://listen.radionomy.com/blueanimeivana",
+                "player": "vitamio"
+            }
+        ],
+        "name": "Blue Anime Ivana",
+        "id": "Blue Anime Ivana",
+        "Country": "Internet",
+        "Type": "Asian, Japan, Soul, Rock, Pop"
+    },
+    {
+        "icon": "http://www.mediafire.com/view/xx3t7p50x32nxw7/wave.png/file",
+        "bitrates": [
+            {
+                "rate": "0",
+                "url": "https://chiru.no:8080/stream.mp3",
+                "player": "vitamio"
+            }
+        ],
+        "name": "Chiru",
+        "id": "Chiru",
+        "Country": "Japan",
+        "Type": "jpop,anime,video game"
+    },
+    {
+        "icon": "https://i3.radionomy.com/radios/400/59352804-1e03-4aaa-925c-1169266fa2d4.png",
+        "bitrates": [
+            {
+                "rate": "281",
+                "url": "http://listen.radionomy.com/clananime",
+                "player": "vitamio"
+            }
+        ],
+        "name": "Clan Anime",
+        "id": "Clan Anime",
+        "Country": "",
+        "Type": "Donde esta lo que queres escuchar!"
+    },
+    {
+        "icon": "http://cdn-radiotime-logos.tunein.com/s180357q.png",
+        "bitrates": [
+            {
+                "rate": "2300",
+                "url": "http://31.12.64.208/dd-animes",
+                "player": "vitamio"
+            }
+        ],
+        "name": "DDAnimes",
+        "id": "DDAnimes",
+        "Country": "Argentina",
+        "Type": "Radio de anime, todo sobre el anime y manga, todo sobre la cultura japonesa, musica j-pop j-rock y k-pop. "
+    },
+    {
+        "icon": "http://www.dominacion.cl/player/img/logochico.png",
+        "bitrates": [
+            {
+                "rate": "128",
+                "url": "http://centova.audiostreaming.cl:8025/stream",
+                "player": "vitamio"
+            }
+        ],
+        "name": "Dominación.cl",
+        "id": "Dominación.cl",
+        "Country": "Chile",
+        "Type": "jpop,anime"
+    },
+    {
+        "icon": "http://edenofthewest.com//favicon.ico",
+        "bitrates": [
+            {
+                "rate": "128",
+                "url": "http://edenofthewest.com:8080/eden.mp3",
+                "player": "vitamio"
+            }
+        ],
+        "name": "Eden radio",
+        "id": "Eden radio",
+        "Country": "United States of America",
+        "Type": "hiphop,indie,independent,classical,jazz,jpop,anime"
+    },
+    {
+        "icon": "http://cdn-radiotime-logos.tunein.com/s117252q.png",
+        "bitrates": [
+            {
+                "rate": "8200",
+                "url": "http://199.195.194.140:8327/stream",
+                "player": "vitamio"
+            }
+        ],
+        "name": "Extreme Anime Radio",
+        "id": "Extreme Anime Radio",
+        "Country": "United States",
+        "Type": "Sound around games"
+    },
+    {
+        "icon": "http://cdn-radiotime-logos.tunein.com/s184770q.png",
+        "bitrates": [
+            {
+                "rate": "1300",
+                "url": "http://184.154.45.106:8461/autodj",
+                "player": "vitamio"
+            }
+        ],
+        "name": "Fan World Anime Radio",
+        "id": "Fan World Anime Radio",
+        "Country": "Mexico",
+        "Type": "Fan Word Anime Radio, las 24 horas todos los días con música variada de anime y otros géneros. "
+    },
+    {
+        "icon": "http://cdn-radiotime-logos.tunein.com/s180358q.png",
+        "bitrates": [
+            {
+                "rate": "6700",
+                "url": "http://finalfantasystation.com:8000/stream.mp3",
+                "player": "vitamio"
+            }
+        ],
+        "name": "Final Fantasy Radio",
+        "id": "Final Fantasy Radio",
+        "Country": "United States",
+        "Type": "Video Game Music"
+    },
+    {
+        "icon": "http://cdn-radiotime-logos.tunein.com/s122799q.png",
+        "bitrates": [
+            {
+                "rate": "19600",
+                "url": "http://animeradio.su:8000/;",
+                "player": "vitamio"
+            }
+        ],
+        "name": "Ghost Anime Radio",
+        "id": "Ghost Anime Radio",
+        "Country": "Russia",
+        "Type": " Радио для анимешников и не только. Слушайте нас и наслаждайтесь! Мы обещаем вам хорошее настроение и весёлую программу! "
+    },
+    {
+        "icon": "http://goradio.gr/data/icons/mstile-310x310.png",
+        "bitrates": [
+            {
+                "rate": "128",
+                "url": "http://usa2.fastcast4u.com:3684/;",
+                "player": "vitamio"
+            }
+        ],
+        "name": "Greek Otaku Radio",
+        "id": "Greek Otaku Radio",
+        "Country": "Greece",
+        "Type": "anime,soundtracks"
+    },
+    {
+        "icon": "https://s-media-cache-ak0.pinimg.com/236x/66/12/24/66122491e9fa1c1e49503d6f5412abd7.jpg",
+        "bitrates": [
+            {
+                "rate": "280",
+                "url": "http://69.163.186.124:9001/listen.aac",
+                "player": "vitamio"
+            }
+        ],
+        "name": "Initial D World Radio Broadcast",
+        "id": "Initial D World Radio Broadcast",
+        "Country": "United States",
+        "Type": "Features discussion on Initial D anime, manga, music, torrents and the Arcade Stage game and more."
+    },
+    {
+        "icon": "https://j1fm.com/images/no_cd.jpg",
+        "bitrates": [
+            {
+                "rate": "128",
+                "url": "http://hits.j1fm.tokyo/",
+                "player": "vitamio"
+            }
+        ],
+        "name": "J1: Japan's Hottest HITS",
+        "id": "J1: Japan's Hottest HITS",
+        "Country": "United States of America",
+        "Type": "top 40,japanese hits,jpop,jrock,anime"
+    },
+    {
+        "icon": "http://cdn-radiotime-logos.tunein.com/s0.png",
+        "bitrates": [
+            {
+                "rate": "5500",
+                "url": "http://listen.radionomy.com/japanjpopjrockanime.m3u",
+                "player": "vitamio"
+            }
+        ],
+        "name": "Japan jpop jrock anime",
+        "id": "Japan jpop jrock anime",
+        "Country": "Malaysia",
+        "Type": "Jpop, Jrock, Anime"
+    },
+    {
+        "icon": "http://www.japanaradio.com/images/logo02.png",
+        "bitrates": [
+            {
+                "rate": "48",
+                "url": "http://www.japanaradio.com/free/48kaacp.pls",
+                "player": "vitamio"
+            }
+        ],
+        "name": "Japan-a-Radio",
+        "id": "Japan-a-Radio",
+        "Country": "United States of America",
+        "Type": "anime,classical,japanese"
+    },
+    {
+        "icon": "http://cdn-radiotime-logos.tunein.com/s191446q.png",
+        "bitrates": [
+            {
+                "rate": "20000",
+                "url": "http://streaming.radionomy.com/Japanimradiofr",
+                "player": "vitamio"
+            }
+        ],
+        "name": "Japanimradio.fr",
+        "id": "Japanimradio.fr",
+        "Country": "France",
+        "Type": "Listen to the latest hits and JMusic Jpop also Opening / Ending your favorite animes with their soundtrack"
+    },
+    {
+        "icon": "http://cdn-radiotime-logos.tunein.com/s225560q.png",
+        "bitrates": [
+            {
+                "rate": "707",
+                "url": "http://listen.radionomy.com/Kamehouse-station",
+                "player": "vitamio"
+            }
+        ],
+        "name": "Kamehouse station",
+        "id": "Kamehouse station",
+        "Country": "Mexico",
+        "Type": "abre tu mundo a la diversion solo por kamehouse musica 24/7 de anime jpop kpop y mas cosas raras te esperamos en Kamehouse station"
+    },
+    {
+        "icon": "http://cdn-radiotime-logos.tunein.com/s141935q.png",
+        "bitrates": [
+            {
+                "rate": "68200",
+                "url": "http://streaming.radionomy.com/kawaiiradio-official",
+                "player": "vitamio"
+            }
+        ],
+        "name": "Kawaii Radio",
+        "id": "Kawaii Radio",
+        "Country": "Japan",
+        "Type": "Kyoto Anime Gaming J-pop Japanese"
+    },
+    {
+        "icon": "http://www.mediafire.com/view/xx3t7p50x32nxw7/wave.png/file",
+        "bitrates": [
+            {
+                "rate": "192",
+                "url": "http://kibo.fm/kibo.pls",
+                "player": "vitamio"
+            }
+        ],
+        "name": "Kibo.fm",
+        "id": "Kibo.fm",
+        "Country": "Germany",
+        "Type": "Anime,Japan"
+    },
+    {
+        "icon": "https://listen.moe/public/images/icons/apple-touch-icon.png",
+        "bitrates": [
+            {
+                "rate": "128",
+                "url": "https://listen.moe/stream",
+                "player": "vitamio"
+            }
+        ],
+        "name": "Listen.moe",
+        "id": "Listen.moe",
+        "Country": "Japan",
+        "Type": "anime,jpop"
+    },
+    {
+        "icon": "https://i3.radionomy.com/radios/400/1e01ed96-858f-4e0e-b4d2-8ac451f90e89.jpg",
+        "bitrates": [
+            {
+                "rate": "64",
+                "url": "http://streaming.radionomy.com/Manganimema",
+                "player": "vitamio"
+            }
+        ],
+        "name": "Manganime Radio",
+        "id": "Manganime Radio",
+        "Country": "Japan",
+        "Type": "Anime, Jpop, Manga"
+    },
+    {
+        "icon": "https://pbs.twimg.com/profile_images/483760697612857345/UsyaddMU_400x400.png",
+        "bitrates": [
+            {
+                "rate": "96",
+                "url": "http://67.20.61.70:8301/;",
+                "player": "vitamio"
+            }
+        ],
+        "name": "MultiAnime Radio",
+        "id": "MultiAnime Radio",
+        "Country": "Mexico",
+        "Type": "japanese,soundtrack,anime"
+    },
+    {
+        "icon": "http://cdn-radiotime-logos.tunein.com/s245836q.png",
+        "bitrates": [
+            {
+                "rate": "2000",
+                "url": "http://listen.radionomy.com/MundoAnime",
+                "player": "vitamio"
+            }
+        ],
+        "name": "Mundo Anime",
+        "id": "Mundo Anime",
+        "Country": "United States",
+        "Type": "Anime , J-Pop"
+    },
+    {
+        "icon": "https://i3.radionomy.com/radios/400/460c183f-7997-44eb-9664-2be25f7b9956.jpg",
+        "bitrates": [
+            {
+                "rate": "279",
+                "url": "http://listen.radionomy.com/myanimeworld",
+                "player": "vitamio"
+            }
+        ],
+        "name": "My Anime World",
+        "id": "My Anime World",
+        "Country": "",
+        "Type": "Te doy la bienvenida a mi mundo."
+    },
+    {
+        "icon": "http://www.mediafire.com/view/xx3t7p50x32nxw7/wave.png/file",
+        "bitrates": [
+            {
+                "rate": "0",
+                "url": "http://stream1.nihon-no-oto.com:80/nihonogg",
+                "player": "vitamio"
+            }
+        ],
+        "name": "Nihon no Oto",
+        "id": "Nihon no Oto",
+        "Country": "France",
+        "Type": "anime,jpop,jrock,japanese music"
+    },
+    {
+        "icon": "https://i3.radionomy.com/radios/400/038281e6-bf77-4f92-91ac-f2790efa4ddb.jpg",
+        "bitrates": [
+            {
+                "rate": "1245",
+                "url": "http://192.240.102.133:12197/stream/;",
+                "player": "vitamio"
+            }
+        ],
+        "name": "Nipon Anime Projectcom",
+        "id": "Nipon Anime Projectcom",
+        "Country": "Internet",
+        "Type": "Anime, Manga"
+    },
+    {
+        "icon": "http://nsw-live.de/images/favicon.png",
+        "bitrates": [
+            {
+                "rate": "128",
+                "url": "http://nsw-radio.de:8000/nswmp3",
+                "player": "vitamio"
+            }
+        ],
+        "name": "NSW-Live (NSW-Anime)",
+        "id": "NSW-Live (NSW-Anime)",
+        "Country": "Germany",
+        "Type": "anime"
+    },
+    {
+        "icon": "http://cdn-radiotime-logos.tunein.com/s205032q.png",
+        "bitrates": [
+            {
+                "rate": "988",
+                "url": "http://radio.nyan.pw/listen.m3u",
+                "player": "vitamio"
+            }
+        ],
+        "name": "NyanServer Radio",
+        "id": "NyanServer Radio",
+        "Country": "Russia",
+        "Type": "NyanServer is a non-stop Japanese Electronic music radio."
+    },
+    {
+        "icon": "http://cdn-radiotime-logos.tunein.com/s246342q.png",
+        "bitrates": [
+            {
+                "rate": "36",
+                "url": "http://listen.radionomy.com/ongakuradio2",
+                "player": "vitamio"
+            }
+        ],
+        "name": "Ongaku Radio",
+        "id": "Ongaku Radio",
+        "Country": "Nicaragua",
+        "Type": "Un pequeño proyecto que estamos cultivando, Ongaku Radio es un espacio para disfrutar de la mejor música de la tierra del sol naciente."
+    },
+    {
+        "icon": "http://cdn-radiotime-logos.tunein.com/s103463q.png",
+        "bitrates": [
+            {
+                "rate": "21500",
+                "url": "http://radio.otakunopodcast.com:8000/otakunoradio",
+                "player": "vitamio"
+            }
+        ],
+        "name": "Otaku no Radio",
+        "id": "Otaku no Radio",
+        "Country": "United States",
+        "Type": "News, reviews, and commentary on all things Anime and Manga"
+    },
+    {
+        "icon": "http://cdn-radiotime-logos.tunein.com/s188041q.png",
+        "bitrates": [
+            {
+                "rate": "518",
+                "url": "http://listen.radionomy.com/otakuradio",
+                "player": "vitamio"
+            }
+        ],
+        "name": "Otaku Radio",
+        "id": "Otaku Radio",
+        "Country": "Italy",
+        "Type": "La prima radio 100% Otaku in Italia!"
+    },
+    {
+        "icon": "https://i3.radionomy.com/radios/400/210b5e3d-cccc-4fa4-a813-c73e7eb16567.png",
+        "bitrates": [
+            {
+                "rate": "64",
+                "url": "http://listen.radionomy.com/otakudeshoradio.m3u",
+                "player": "vitamio"
+            }
+        ],
+        "name": "Otakudesho Radio",
+        "id": "Otakudesho Radio",
+        "Country": "Japan",
+        "Type": "Anime, Blog"
+    },
+    {
+        "icon": "http://data2.mediayou.net/logo/radio/26287.png",
+        "bitrates": [
+            {
+                "rate": "4500",
+                "url": "http://phate.io/phate.m3u",
+                "player": "vitamio"
+            }
+        ],
+        "name": "Phate Radio",
+        "id": "Phate Radio",
+        "Country": "Taiwan",
+        "Type": "飛特網路電台\nAnime, Jpop"
+    },
+    {
+        "icon": "http://www.pianetabwebradio.it/thumbnail.jpg",
+        "bitrates": [
+            {
+                "rate": "128",
+                "url": "http://51.254.76.66:8062/;stream.mp3",
+                "player": "vitamio"
+            }
+        ],
+        "name": "PianetaB WebRadio",
+        "id": "PianetaB WebRadio",
+        "Country": "Italy",
+        "Type": "vigevano,anime,soundtracks,kids,children"
+    },
+    {
+        "icon": "http://cdn-radiotime-logos.tunein.com/s174185q.png",
+        "bitrates": [
+            {
+                "rate": "19900",
+                "url": "http://stream.r-a-d.io/main",
+                "player": "vitamio"
+            }
+        ],
+        "name": "R/a/dio",
+        "id": "R/a/dio",
+        "Country": "United States",
+        "Type": "Anime , J-Pop , K-Pop"
+    },
+    {
+        "icon": "https://1.bp.blogspot.com/-Kj59nyyoWXQ/WEVtPG-gnII/AAAAAAAAAM0/wrthImNDNWQzYwq-ngJZyCxLunoNTQsuwCLcB/s250/Radio-anime-app-musica.png",
+        "bitrates": [
+            {
+                "rate": "128",
+                "url": "http://perseus.shoutca.st:9253/128",
+                "player": "vitamio"
+            }
+        ],
+        "name": "Radio Anime",
+        "id": "Radio Anime",
+        "Country": "Mexico",
+        "Type": "soundtrack,anime"
+    },
+    {
+        "icon": "http://cdn-radiotime-logos.tunein.com/s0q.png",
+        "bitrates": [
+            {
+                "rate": "277",
+                "url": "http://listen.radionomy.com/RadioAkiraStation",
+                "player": "vitamio"
+            }
+        ],
+        "name": "Radio Anime Akira Station",
+        "id": "Radio Anime Akira Station",
+        "Country": "United States",
+        "Type": "Radio Anime, Akira Station, la mejor m&uacute;sica las mejores noticias el mejor contenido solo para ti, Radio Anime J-Music, K-pop, la mejor radio anime."
+    },
+    {
+        "icon": "http://cdn-radiotime-logos.tunein.com/s206594q.png",
+        "bitrates": [
+            {
+                "rate": "15700",
+                "url": "http://listen.radionomy.com/animeclassicsradio1",
+                "player": "vitamio"
+            }
+        ],
+        "name": "Radio Anime Classics 1",
+        "id": "Radio Anime Classics 1",
+        "Country": "United States",
+        "Type": "Playing the best variety of opening and ending songs from your favorite anime shows "
+    },
+    {
+        "icon": "http://cdn-radiotime-logos.tunein.com/s224525q.png",
+        "bitrates": [
+            {
+                "rate": "3100",
+                "url": "http://streaming.radionomy.com/AnimeClassicsRadioTwo",
+                "player": "vitamio"
+            }
+        ],
+        "name": "Radio Anime Classics 2",
+        "id": "Radio Anime Classics 2",
+        "Country": "United States",
+        "Type": "Playing the most recent anime songs from the past couple years. All Day, Every Day! "
+    },
+    {
+        "icon": "http://cdn-radiotime-logos.tunein.com/s238836q.png",
+        "bitrates": [
+            {
+                "rate": "2500",
+                "url": "http://listen.radionomy.com/animeclassicsradiomoe",
+                "player": "vitamio"
+            }
+        ],
+        "name": "Radio Anime Classics MOE",
+        "id": "Radio Anime Classics MOE",
+        "Country": "United States",
+        "Type": "The internet's only full time MOE anime music station. "
+    },
+    {
+        "icon": "https://i3.radionomy.com/radios/300/248ce5ac-5255-4885-9ca0-06df6d62eb03.jpg",
+        "bitrates": [
+            {
+                "rate": "313",
+                "url": "http://listen.radionomy.com/animegold",
+                "player": "vitamio"
+            }
+        ],
+        "name": "Radio Anime Gold",
+        "id": "Radio Anime Gold",
+        "Country": "United States",
+        "Type": "Classic shows, Classic songs!"
+    },
+    {
+        "icon": "https://i3.radionomy.com/radios/400/d8cb20b7-082a-4dc5-b740-7d3ef0f5db39.jpg",
+        "bitrates": [
+            {
+                "rate": "276",
+                "url": "http://listen.radionomy.com/radioanimemx",
+                "player": "vitamio"
+            }
+        ],
+        "name": "Radio Anime MX",
+        "id": "Radio Anime MX",
+        "Country": "Mexico",
+        "Type": "musica anime openings, endings en español Latino y japones la mejor radio de anime con j-pop de los animes"
+    },
+    {
+        "icon": "http://cdn.animenexus.mx/wp-content/themes/nexuriano/images/logo11.png",
+        "bitrates": [
+            {
+                "rate": "128",
+                "url": "http://radio.animenexus.mx:8000/animenexus",
+                "player": "vitamio"
+            }
+        ],
+        "name": "Radio Anime Nexus",
+        "id": "Radio Anime Nexus",
+        "Country": "Mexico",
+        "Type": "jrock,jpop,talk,video game,soundtrack,anime"
+    },
+    {
+        "icon": "http://cdn-radiotime-logos.tunein.com/s277427q.png",
+        "bitrates": [
+            {
+                "rate": "96",
+                "url": "http://sv1.vestaradio.com:5110/;",
+                "player": "vitamio"
+            }
+        ],
+        "name": "Radio Anime No Melody",
+        "id": "Radio Anime No Melody",
+        "Country": "France",
+        "Type": "Anime"
+    },
+    {
+        "icon": "http://www.katakanasubs.net/favicon.ico",
+        "bitrates": [
+            {
+                "rate": "128",
+                "url": "http://178.19.96.206:8095/",
+                "player": "vitamio"
+            }
+        ],
+        "name": "Radio Anime OST",
+        "id": "Radio Anime OST",
+        "Country": "Poland",
+        "Type": "anime"
+    },
+    {
+        "icon": "http://anime.com.pl/img/acp_icon.png",
+        "bitrates": [
+            {
+                "rate": "0",
+                "url": "http://anime.com.pl:8000/radioHQ.ogg",
+                "player": "vitamio"
+            }
+        ],
+        "name": "Radio Anime.com.pl",
+        "id": "Radio Anime.com.pl",
+        "Country": "Poland",
+        "Type": "jpop,anime"
+    },
+    {
+        "icon": "https://cdn-radiotime-logos.tunein.com/s154005q.png",
+        "bitrates": [
+            {
+                "rate": "128",
+                "url": "http://91.232.4.33:7028/;",
+                "player": "vitamio"
+            }
+        ],
+        "name": "Radio Anime24",
+        "id": "Radio Anime24",
+        "Country": "Poland",
+        "Type": "anime,soundtracks"
+    },
+    {
+        "icon": "https://i3.radionomy.com/radios/400/f1833d4a-bdbf-4c69-8281-2386f2ec4859.png",
+        "bitrates": [
+            {
+                "rate": "275",
+                "url": "http://streaming.radionomy.com/RadioAnimex-musicaanimeymuchomas-",
+                "player": "vitamio"
+            }
+        ],
+        "name": "Radio Animex(musicaanimeymuchomas)",
+        "id": "Radio Animex(musicaanimeymuchomas)",
+        "Country": "",
+        "Type": "En esta Radio encontraras,musica divertida, y mas"
+    },
+    {
+        "icon": "http://radioaoi.pl/wp-content/themes/RadioAoi/images/favicon.png",
+        "bitrates": [
+            {
+                "rate": "0",
+                "url": "http://streaming.pixelmeal.com:8000/stream",
+                "player": "vitamio"
+            }
+        ],
+        "name": "Radio AOI",
+        "id": "Radio AOI",
+        "Country": "Poland",
+        "Type": "japanese,soundtrack,anime"
+    },
+    {
+        "icon": "https://4.bp.blogspot.com/-Q9KeaWxBGsk/WODLuMEIy1I/AAAAAAAAABI/8PLexjPIZxURZstRyGxgiGlQo4oUhT-YQCPcB/s1600/Logo400x400.png",
+        "bitrates": [
+            {
+                "rate": "320",
+                "url": "http://janus.shoutca.st:8972/;",
+                "player": "vitamio"
+            }
+        ],
+        "name": "Radio Doki",
+        "id": "Radio Doki",
+        "Country": "",
+        "Type": "soundtracks,jpop,anime openings,anime"
+    },
+    {
+        "icon": "https://pbs.twimg.com/profile_images/858009451722354688/XzbMxU6B.jpg",
+        "bitrates": [
+            {
+                "rate": "64",
+                "url": "http://servidor30.brlogic.com:8270/live",
+                "player": "vitamio"
+            }
+        ],
+        "name": "Rádio Geek",
+        "id": "Rádio Geek",
+        "Country": "Brazil",
+        "Type": "Comics,Movies,Anime,Rock,Geek"
+    },
+    {
+        "icon": "http://cdn-radiotime-logos.tunein.com/s258260q.png",
+        "bitrates": [
+            {
+                "rate": "274",
+                "url": "http://listen.radionomy.com/radiogeekotaku",
+                "player": "vitamio"
+            }
+        ],
+        "name": "Radio Geek Otaku",
+        "id": "Radio Geek Otaku",
+        "Country": "France",
+        "Type": "Le calendrier des conventions Geek et Otaku en France"
+    },
+    {
+        "icon": "http://cdn-radiotime-logos.tunein.com/s105944q.png",
+        "bitrates": [
+            {
+                "rate": "29600",
+                "url": "http://radio2.flex.ru:8000/anyanime64k",
+                "player": "vitamio"
+            }
+        ],
+        "name": "Radio Nami",
+        "id": "Radio Nami",
+        "Country": "Russia",
+        "Type": "Аниме-радио, с возможностью заказа песен прямо в эфир. "
+    },
+    {
+        "icon": "http://www.openingsanimes.com/wp-content/uploads/2014/07/Logo-oa.png?a5f169",
+        "bitrates": [
+            {
+                "rate": "1300",
+                "url": "http://streaming.radionomy.com/radio-openings-animes",
+                "player": "vitamio"
+            }
+        ],
+        "name": "Radio Openings Animes",
+        "id": "Radio Openings Animes",
+        "Country": "",
+        "Type": "Anime"
+    },
+    {
+        "icon": "http://cdn-radiotime-logos.tunein.com/s168985q.png",
+        "bitrates": [
+            {
+                "rate": "6000",
+                "url": "http://listen.radionomy.com/radio-otakus-dream",
+                "player": "vitamio"
+            }
+        ],
+        "name": "Radio Otaku's Dream",
+        "id": "Radio Otaku's Dream",
+        "Country": "Peru",
+        "Type": "Anime"
+    },
+    {
+        "icon": "https://i3.radionomy.com/radios/400/718d7041-316c-4c0b-a303-76d2d26e4a37.png",
+        "bitrates": [
+            {
+                "rate": "273",
+                "url": "http://listen.radionomy.com/radioramenanime",
+                "player": "vitamio"
+            }
+        ],
+        "name": "Radio Ramen Anime",
+        "id": "Radio Ramen Anime",
+        "Country": "",
+        "Type": "Música anime 24/7!"
+    },
+    {
+        "icon": "http://cdn-radiotime-logos.tunein.com/s73272q.png",
+        "bitrates": [
+            {
+                "rate": "12900",
+                "url": "http://server.radioanimati.it/;",
+                "player": "vitamio"
+            }
+        ],
+        "name": "RadioAnimati",
+        "id": "RadioAnimati",
+        "Country": "Italy",
+        "Type": "Anime"
+    },
+    {
+        "icon": "http://cdn-radiotime-logos.tunein.com/s177968q.png",
+        "bitrates": [
+            {
+                "rate": "22900",
+                "url": "http://listen.radionomy.com/radio-anime",
+                "player": "vitamio"
+            }
+        ],
+        "name": "Radio-Anime",
+        "id": "Radio-Anime",
+        "Country": "Mexico",
+        "Type": "Anime , Japanese Music"
+    },
+    {
+        "icon": "https://i3.radionomy.com/radios/400/9e60e786-a939-48a7-a96b-1b0a2055a128.jpg",
+        "bitrates": [
+            {
+                "rate": "272",
+                "url": "http://listen.radionomy.com/radioanimecom",
+                "player": "vitamio"
+            }
+        ],
+        "name": "Radioanime.com",
+        "id": "Radioanime.com",
+        "Country": "France",
+        "Type": "La radio de la familia otaku"
+    },
+    {
+        "icon": "http://cdn-radiotime-logos.tunein.com/s198764q.png",
+        "bitrates": [
+            {
+                "rate": "13500",
+                "url": "http://listen.radionomy.com/radiovocaloid.m3u",
+                "player": "vitamio"
+            }
+        ],
+        "name": "RadioVocaloid",
+        "id": "RadioVocaloid",
+        "Country": "Japan",
+        "Type": "Anime , Rock , Top 40/Pop"
+    },
+    {
+        "icon": "http://cdn-radiotime-logos.tunein.com/s102112q.png",
+        "bitrates": [
+            {
+                "rate": "7600",
+                "url": "http://shinsen-radio.org:8000/shinsen-radio.128.mp3",
+                "player": "vitamio"
+            }
+        ],
+        "name": "Shinsen Radio",
+        "id": "Shinsen Radio",
+        "Country": "United States",
+        "Type": "J-Music and Anime Radio"
+    },
+    {
+        "icon": "https://i3.radionomy.com/radios/400/0493f5ad-4838-4a92-bb98-f169465b28e4.png",
+        "bitrates": [
+            {
+                "rate": "3000",
+                "url": "http://listen.radionomy.com/soyanimegamer",
+                "player": "vitamio"
+            }
+        ],
+        "name": "Soy Anime Gamer",
+        "id": "Soy Anime Gamer",
+        "Country": "Internet",
+        "Type": "The best music for Gamers"
+    },
+    {
+        "icon": "http://cdn-radiotime-logos.tunein.com/s143484q.png",
+        "bitrates": [
+            {
+                "rate": "5500",
+                "url": "http://listen64.radionomy.com/Subarashii",
+                "player": "vitamio"
+            }
+        ],
+        "name": "Subarashii Radio Manga",
+        "id": "Subarashii Radio Manga",
+        "Country": "Belgium",
+        "Type": "Subarashii Radio Manga, la radio consacrée à l'animation japonaise : une large sélection de musiques d'animes et jeux vidéo à portée de clic !"
+    },
+    {
+        "icon": "http://cdn-radiotime-logos.tunein.com/s117484q.png",
+        "bitrates": [
+            {
+                "rate": "265",
+                "url": "http://www.sanitarium.fm:8000/;",
+                "player": "vitamio"
+            }
+        ],
+        "name": "The Sanitarium FM",
+        "id": "The Sanitarium FM",
+        "Country": "United Kingdom",
+        "Type": "The digital sanctuary for the insane"
+    },
+    {
+        "icon": "https://i3.radionomy.com/radios/400/e3c8965e-c945-4cd9-aea6-62f8bbbef1bd.jpg",
+        "bitrates": [
+            {
+                "rate": "271",
+                "url": "http://listen.radionomy.com/todoanimes",
+                "player": "vitamio"
+            }
+        ],
+        "name": "Todo Animes",
+        "id": "Todo Animes",
+        "Country": "",
+        "Type": "This is your radio, TodoAnimes :)"
+    },
+    {
+        "icon": "http://cdn-radiotime-logos.tunein.com/s214743q.png",
+        "bitrates": [
+            {
+                "rate": "630",
+                "url": "http://listen.radionomy.com/tokusatsuradio30.m3u",
+                "player": "vitamio"
+            }
+        ],
+        "name": "Tokusatsu Radio3.0",
+        "id": "Tokusatsu Radio3.0",
+        "Country": "Philippines",
+        "Type": "Anime, Jpop"
+    },
+    {
+        "icon": "http://www.touhouradio.com/banner.png",
+        "bitrates": [
+            {
+                "rate": "1700",
+                "url": "http://touhouradio.com:8000/touhouradio.mp3",
+                "player": "vitamio"
+            }
+        ],
+        "name": "Touhou Radio",
+        "id": "Touhou Radio",
+        "Country": "United States",
+        "Type": "24/7 Touhou music request radio station and fan community"
+    },
+    {
+        "icon": "http://cdn-radiotime-logos.tunein.com/s134247q.png",
+        "bitrates": [
+            {
+                "rate": "5500",
+                "url": "http://listen.radionomy.com/TsumugiII",
+                "player": "vitamio"
+            }
+        ],
+        "name": "Tsumugi Radio",
+        "id": "Tsumugi Radio",
+        "Country": "France",
+        "Type": "Webradio geek-otaque"
+    },
+    {
+        "icon": "http://cdn-radiotime-logos.tunein.com/s124936q.png",
+        "bitrates": [
+            {
+                "rate": "1900",
+                "url": "http://listen.ur-radio.de/anime.mp3",
+                "player": "vitamio"
+            }
+        ],
+        "name": "UR-Radio UR Anime",
+        "id": "UR-Radio UR Anime",
+        "Country": "Germany",
+        "Type": "Connect yourself"
+    },
+    {
+        "icon": "http://cdn-radiotime-logos.tunein.com/s141078q.png",
+        "bitrates": [
+            {
+                "rate": "10500",
+                "url": "http://curiosity.shoutca.st:8019/stream",
+                "player": "vitamio"
+            }
+        ],
+        "name": "Vocaloid.FM",
+        "id": "Vocaloid.FM",
+        "Country": "Japan",
+        "Type": "初音ミクなどVocaloidの曲を放送 "
+    },
+    {
+        "icon": "https://i3.radionomy.com/radios/400/6d232f77-7522-46c7-ab1f-a6c27fe4c34d.png",
+        "bitrates": [
+            {
+                "rate": "270",
+                "url": "http://streaming.radionomy.com/WiCkEdAnimeRadio",
+                "player": "vitamio"
+            }
+        ],
+        "name": "WiCkEd Anime Radio",
+        "id": "WiCkEd Anime Radio",
+        "Country": "",
+        "Type": "Opening and Ending theme song, Insert song, Original Soundtrack, and also JPOP song.."
+    },
+    {
+        "icon": "http://cdn-radiotime-logos.tunein.com/s120196q.png",
+        "bitrates": [
+            {
+                "rate": "27000",
+                "url": "http://95.211.241.92:9200/;",
+                "player": "vitamio"
+            }
+        ],
+        "name": "Yggdrasil Radio",
+        "id": "Yggdrasil Radio",
+        "Country": "United States",
+        "Type": "The best in Jpop, anime and game music"
+    },
+    {
+        "icon": "http://animeobsesion.pe/wp-content/uploads/2018/05/obsesion-300x116.png",
+        "bitrates": [
+            {
+                "rate": "32",
+                "url": "http://animeobsesion.pe:8000",
+                "player": "vitamio"
+            }
+        ],
+        "name": "Anime Obsesion",
+        "id": "Anime Obsesion",
+        "Country": "Lima, Perú",
+        "Type": "Tu mundo anime... Hecho Realidad"
+    }
+]);
