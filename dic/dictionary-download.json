@@ -26,8 +26,8 @@
         {
             "icon": "https://i3.radionomy.com/radios/400/42aa3bbe-7b37-4bc7-83fa-3523cddb434d.png",
             "zip": "https://github.com/masterprohd/scleaner/blob/master/dic/Arapca_Turkce_Arapca.zip",
-            "name": "[F-A]Radio-Animes",
-            "descript": "France"
+            "name": "Arapca_Turkce_Arapca",
+            "descript": "Arapca_Turkce_Arapca"
         },
         {
             "icon": "https://i3.radionomy.com/radios/400/42aa3bbe-7b37-4bc7-83fa-3523cddb434d.png",
@@ -56,7 +56,7 @@
         {
             "icon": "https://i3.radionomy.com/radios/400/42aa3bbe-7b37-4bc7-83fa-3523cddb434d.png",
             "zip": "https://github.com/masterprohd/scleaner/blob/master/dic/consise_en_ar.zip",
-            "name": "Mohammad",
+            "name": "consise_en_ar",
             "descript": "This Glossary I had developed in according to helping Arab people who can't speak English language very good. For any help you can contact me at mmoslemm@hotmail.com.  author=Dr. Mohammad Moslem Mohammad wordcount: 23650"
         },
         {
@@ -110,8 +110,8 @@
         {
             "icon": "https://i3.radionomy.com/radios/400/42aa3bbe-7b37-4bc7-83fa-3523cddb434d.png",
             "zip": "https://github.com/masterprohd/scleaner/blob/master/dic/fr2ar.zip",
-            "name": "fr2ar",
-            "descript": "fr2ar"
+            "name": "fr to ar",
+            "descript": "fr to ar"
         },
         {
             "icon": "https://i3.radionomy.com/radios/400/42aa3bbe-7b37-4bc7-83fa-3523cddb434d.png",
