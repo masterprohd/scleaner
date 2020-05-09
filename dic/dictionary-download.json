@@ -1,164 +1,166 @@
-[
-    {
-        "icon": "https://i3.radionomy.com/radios/400/42aa3bbe-7b37-4bc7-83fa-3523cddb434d.png",
-        "zip": "https://github.com/masterprohd/scleaner/blob/master/dic/Arab2English.zip",
-        "name": "[F-A]Radio-Animes",
-        "descript": "France"
-    },
-    {
-        "icon": "https://i3.radionomy.com/radios/400/42aa3bbe-7b37-4bc7-83fa-3523cddb434d.png",
-        "zip": "https://github.com/masterprohd/scleaner/blob/master/dic/ar2fr.zip",
-        "name": "[F-A]Radio-Animes",
-        "descript": "France"
-    },
-    {
-        "icon": "https://i3.radionomy.com/radios/400/42aa3bbe-7b37-4bc7-83fa-3523cddb434d.png",
-        "zip": "https://github.com/masterprohd/scleaner/blob/master/dic/Arabic_Economic_Glossary.zip",
-        "name": "[F-A]Radio-Animes",
-        "descript": "France"
-    },
-    {
-        "icon": "https://i3.radionomy.com/radios/400/42aa3bbe-7b37-4bc7-83fa-3523cddb434d.png",
-        "zip": "https://github.com/masterprohd/scleaner/blob/master/dic/Arabic_Modern_Dictionary.zip",
-        "name": "[F-A]Radio-Animes",
-        "descript": "France"
-    },
-    {
-        "icon": "https://i3.radionomy.com/radios/400/42aa3bbe-7b37-4bc7-83fa-3523cddb434d.png",
-        "zip": "https://github.com/masterprohd/scleaner/blob/master/dic/Arapca_Turkce_Arapca.zip",
-        "name": "[F-A]Radio-Animes",
-        "descript": "France"
-    },
-    {
-        "icon": "https://i3.radionomy.com/radios/400/42aa3bbe-7b37-4bc7-83fa-3523cddb434d.png",
-        "zip": "https://github.com/masterprohd/scleaner/blob/master/dic/aren.zip",
-        "name": "[F-A]Radio-Animes",
-        "descript": "France"
-    },
-    {
-        "icon": "https://i3.radionomy.com/radios/400/42aa3bbe-7b37-4bc7-83fa-3523cddb434d.png",
-        "zip": "https://github.com/masterprohd/scleaner/blob/master/dic/Bible_names_Arabic.zip",
-        "name": "[F-A]Radio-Animes",
-        "descript": "France"
-    },
-    {
-        "icon": "https://i3.radionomy.com/radios/400/42aa3bbe-7b37-4bc7-83fa-3523cddb434d.png",
-        "zip": "https://github.com/masterprohd/scleaner/blob/master/dic/com_ar2en.zip",
-        "name": "[F-A]Radio-Animes",
-        "descript": "France"
-    },
-    {
-        "icon": "https://i3.radionomy.com/radios/400/42aa3bbe-7b37-4bc7-83fa-3523cddb434d.png",
-        "zip": "https://github.com/masterprohd/scleaner/blob/master/dic/com_en2ar.zip",
-        "name": "[F-A]Radio-Animes",
-        "descript": "France"
-    },
-    {
-        "icon": "https://i3.radionomy.com/radios/400/42aa3bbe-7b37-4bc7-83fa-3523cddb434d.png",
-        "zip": "https://github.com/masterprohd/scleaner/blob/master/dic/consise_en_ar.zip",
-        "name": "[F-A]Radio-Animes",
-        "descript": "France"
-    },
-    {
-        "icon": "https://i3.radionomy.com/radios/400/42aa3bbe-7b37-4bc7-83fa-3523cddb434d.png",
-        "zip": "https://github.com/masterprohd/scleaner/blob/master/dic/dbgdict.zip",
-        "name": "[F-A]Radio-Animes",
-        "descript": "France"
-    },
-    {
-        "icon": "https://i3.radionomy.com/radios/400/42aa3bbe-7b37-4bc7-83fa-3523cddb434d.png",
-        "zip": "https://github.com/masterprohd/scleaner/blob/master/dic/dictd_en_ar.zip",
-        "name": "[F-A]Radio-Animes",
-        "descript": "France"
-    },
-    {
-        "icon": "https://i3.radionomy.com/radios/400/42aa3bbe-7b37-4bc7-83fa-3523cddb434d.png",
-        "zip": "https://github.com/masterprohd/scleaner/blob/master/dic/En_Ar_HD.zip",
-        "name": "[F-A]Radio-Animes",
-        "descript": "France"
-    },
-    {
-        "icon": "https://i3.radionomy.com/radios/400/42aa3bbe-7b37-4bc7-83fa-3523cddb434d.png",
-        "zip": "https://github.com/masterprohd/scleaner/blob/master/dic/en2ar_learners.zip",
-        "name": "[F-A]Radio-Animes",
-        "descript": "France"
-    },
-    {
-        "icon": "https://i3.radionomy.com/radios/400/42aa3bbe-7b37-4bc7-83fa-3523cddb434d.png",
-        "zip": "https://github.com/masterprohd/scleaner/blob/master/dic/enar.zip",
-        "name": "[F-A]Radio-Animes",
-        "descript": "France"
-    },
-    {
-        "icon": "https://i3.radionomy.com/radios/400/42aa3bbe-7b37-4bc7-83fa-3523cddb434d.png",
-        "zip": "https://github.com/masterprohd/scleaner/blob/master/dic/enfree.zip",
-        "name": "[F-A]Radio-Animes",
-        "descript": "France"
-    },
-    {
-        "icon": "https://i3.radionomy.com/radios/400/42aa3bbe-7b37-4bc7-83fa-3523cddb434d.png",
-        "zip": "https://github.com/masterprohd/scleaner/blob/master/dic/English2Arabic.zip",
-        "name": "[F-A]Radio-Animes",
-        "descript": "France"
-    },
-    {
-        "icon": "https://i3.radionomy.com/radios/400/42aa3bbe-7b37-4bc7-83fa-3523cddb434d.png",
-        "zip": "https://github.com/masterprohd/scleaner/blob/master/dic/English2ArabicGlossary.zip",
-        "name": "[F-A]Radio-Animes",
-        "descript": "France"
-    },
-    {
-        "icon": "https://i3.radionomy.com/radios/400/42aa3bbe-7b37-4bc7-83fa-3523cddb434d.png",
-        "zip": "https://github.com/masterprohd/scleaner/blob/master/dic/fr2ar.zip",
-        "name": "[F-A]Radio-Animes",
-        "descript": "France"
-    },
-    {
-        "icon": "https://i3.radionomy.com/radios/400/42aa3bbe-7b37-4bc7-83fa-3523cddb434d.png",
-        "zip": "https://github.com/masterprohd/scleaner/blob/master/dic/hd_ar2en_dawran.zip",
-        "name": "[F-A]Radio-Animes",
-        "descript": "France"
-    },
-    {
-        "icon": "https://i3.radionomy.com/radios/400/42aa3bbe-7b37-4bc7-83fa-3523cddb434d.png",
-        "zip": "https://github.com/masterprohd/scleaner/blob/master/dic/hd_sents_ar2en.zip",
-        "name": "[F-A]Radio-Animes",
-        "descript": "France"
-    },
-    {
-        "icon": "https://i3.radionomy.com/radios/400/42aa3bbe-7b37-4bc7-83fa-3523cddb434d.png",
-        "zip": "https://github.com/masterprohd/scleaner/blob/master/dic/hd_sents_en2ar.zip",
-        "name": "[F-A]Radio-Animes",
-        "descript": "France"
-    },
-    {
-        "icon": "https://i3.radionomy.com/radios/400/42aa3bbe-7b37-4bc7-83fa-3523cddb434d.png",
-        "zip": "https://github.com/masterprohd/scleaner/blob/master/dic/Medicine_English_Arabic.zip",
-        "name": "[F-A]Radio-Animes",
-        "descript": "France"
-    },
-    {
-        "icon": "https://i3.radionomy.com/radios/400/42aa3bbe-7b37-4bc7-83fa-3523cddb434d.png",
-        "zip": "https://github.com/masterprohd/scleaner/blob/master/dic/Mukhtar_Al_Sahah_Arabic_Arabic.zip",
-        "name": "[F-A]Radio-Animes",
-        "descript": "France"
-    },
-    {
-        "icon": "https://i3.radionomy.com/radios/400/42aa3bbe-7b37-4bc7-83fa-3523cddb434d.png",
-        "zip": "https://github.com/masterprohd/scleaner/blob/master/dic/Turkce_Arapca.zip",
-        "name": "[F-A]Radio-Animes",
-        "descript": "France"
-    },
-    {
-        "icon": "https://i3.radionomy.com/radios/400/42aa3bbe-7b37-4bc7-83fa-3523cddb434d.png",
-        "zip": "https://github.com/masterprohd/scleaner/blob/master/dic/UMDClick.zip",
-        "name": "[F-A]Radio-Animes",
-        "descript": "France"
-    },
-    {
-        "icon": "https://i3.radionomy.com/radios/400/42aa3bbe-7b37-4bc7-83fa-3523cddb434d.png",
-        "zip": "https://github.com/masterprohd/scleaner/blob/master/dic/Wadan_English_Arabic_Auditing_Terms.zip",
-        "name": "[F-A]Radio-Animes",
-        "descript": "France"
-    }
-]);
+"dictionarydownload":{
+    [
+        {
+            "icon": "https://i3.radionomy.com/radios/400/42aa3bbe-7b37-4bc7-83fa-3523cddb434d.png",
+            "zip": "https://github.com/masterprohd/scleaner/blob/master/dic/Arab2English.zip",
+            "name": "[F-A]Radio-Animes",
+            "descript": "France"
+        },
+        {
+            "icon": "https://i3.radionomy.com/radios/400/42aa3bbe-7b37-4bc7-83fa-3523cddb434d.png",
+            "zip": "https://github.com/masterprohd/scleaner/blob/master/dic/ar2fr.zip",
+            "name": "[F-A]Radio-Animes",
+            "descript": "France"
+        },
+        {
+            "icon": "https://i3.radionomy.com/radios/400/42aa3bbe-7b37-4bc7-83fa-3523cddb434d.png",
+            "zip": "https://github.com/masterprohd/scleaner/blob/master/dic/Arabic_Economic_Glossary.zip",
+            "name": "[F-A]Radio-Animes",
+            "descript": "France"
+        },
+        {
+            "icon": "https://i3.radionomy.com/radios/400/42aa3bbe-7b37-4bc7-83fa-3523cddb434d.png",
+            "zip": "https://github.com/masterprohd/scleaner/blob/master/dic/Arabic_Modern_Dictionary.zip",
+            "name": "[F-A]Radio-Animes",
+            "descript": "France"
+        },
+        {
+            "icon": "https://i3.radionomy.com/radios/400/42aa3bbe-7b37-4bc7-83fa-3523cddb434d.png",
+            "zip": "https://github.com/masterprohd/scleaner/blob/master/dic/Arapca_Turkce_Arapca.zip",
+            "name": "[F-A]Radio-Animes",
+            "descript": "France"
+        },
+        {
+            "icon": "https://i3.radionomy.com/radios/400/42aa3bbe-7b37-4bc7-83fa-3523cddb434d.png",
+            "zip": "https://github.com/masterprohd/scleaner/blob/master/dic/aren.zip",
+            "name": "[F-A]Radio-Animes",
+            "descript": "France"
+        },
+        {
+            "icon": "https://i3.radionomy.com/radios/400/42aa3bbe-7b37-4bc7-83fa-3523cddb434d.png",
+            "zip": "https://github.com/masterprohd/scleaner/blob/master/dic/Bible_names_Arabic.zip",
+            "name": "[F-A]Radio-Animes",
+            "descript": "France"
+        },
+        {
+            "icon": "https://i3.radionomy.com/radios/400/42aa3bbe-7b37-4bc7-83fa-3523cddb434d.png",
+            "zip": "https://github.com/masterprohd/scleaner/blob/master/dic/com_ar2en.zip",
+            "name": "[F-A]Radio-Animes",
+            "descript": "France"
+        },
+        {
+            "icon": "https://i3.radionomy.com/radios/400/42aa3bbe-7b37-4bc7-83fa-3523cddb434d.png",
+            "zip": "https://github.com/masterprohd/scleaner/blob/master/dic/com_en2ar.zip",
+            "name": "[F-A]Radio-Animes",
+            "descript": "France"
+        },
+        {
+            "icon": "https://i3.radionomy.com/radios/400/42aa3bbe-7b37-4bc7-83fa-3523cddb434d.png",
+            "zip": "https://github.com/masterprohd/scleaner/blob/master/dic/consise_en_ar.zip",
+            "name": "[F-A]Radio-Animes",
+            "descript": "France"
+        },
+        {
+            "icon": "https://i3.radionomy.com/radios/400/42aa3bbe-7b37-4bc7-83fa-3523cddb434d.png",
+            "zip": "https://github.com/masterprohd/scleaner/blob/master/dic/dbgdict.zip",
+            "name": "[F-A]Radio-Animes",
+            "descript": "France"
+        },
+        {
+            "icon": "https://i3.radionomy.com/radios/400/42aa3bbe-7b37-4bc7-83fa-3523cddb434d.png",
+            "zip": "https://github.com/masterprohd/scleaner/blob/master/dic/dictd_en_ar.zip",
+            "name": "[F-A]Radio-Animes",
+            "descript": "France"
+        },
+        {
+            "icon": "https://i3.radionomy.com/radios/400/42aa3bbe-7b37-4bc7-83fa-3523cddb434d.png",
+            "zip": "https://github.com/masterprohd/scleaner/blob/master/dic/En_Ar_HD.zip",
+            "name": "[F-A]Radio-Animes",
+            "descript": "France"
+        },
+        {
+            "icon": "https://i3.radionomy.com/radios/400/42aa3bbe-7b37-4bc7-83fa-3523cddb434d.png",
+            "zip": "https://github.com/masterprohd/scleaner/blob/master/dic/en2ar_learners.zip",
+            "name": "[F-A]Radio-Animes",
+            "descript": "France"
+        },
+        {
+            "icon": "https://i3.radionomy.com/radios/400/42aa3bbe-7b37-4bc7-83fa-3523cddb434d.png",
+            "zip": "https://github.com/masterprohd/scleaner/blob/master/dic/enar.zip",
+            "name": "[F-A]Radio-Animes",
+            "descript": "France"
+        },
+        {
+            "icon": "https://i3.radionomy.com/radios/400/42aa3bbe-7b37-4bc7-83fa-3523cddb434d.png",
+            "zip": "https://github.com/masterprohd/scleaner/blob/master/dic/enfree.zip",
+            "name": "[F-A]Radio-Animes",
+            "descript": "France"
+        },
+        {
+            "icon": "https://i3.radionomy.com/radios/400/42aa3bbe-7b37-4bc7-83fa-3523cddb434d.png",
+            "zip": "https://github.com/masterprohd/scleaner/blob/master/dic/English2Arabic.zip",
+            "name": "[F-A]Radio-Animes",
+            "descript": "France"
+        },
+        {
+            "icon": "https://i3.radionomy.com/radios/400/42aa3bbe-7b37-4bc7-83fa-3523cddb434d.png",
+            "zip": "https://github.com/masterprohd/scleaner/blob/master/dic/English2ArabicGlossary.zip",
+            "name": "[F-A]Radio-Animes",
+            "descript": "France"
+        },
+        {
+            "icon": "https://i3.radionomy.com/radios/400/42aa3bbe-7b37-4bc7-83fa-3523cddb434d.png",
+            "zip": "https://github.com/masterprohd/scleaner/blob/master/dic/fr2ar.zip",
+            "name": "[F-A]Radio-Animes",
+            "descript": "France"
+        },
+        {
+            "icon": "https://i3.radionomy.com/radios/400/42aa3bbe-7b37-4bc7-83fa-3523cddb434d.png",
+            "zip": "https://github.com/masterprohd/scleaner/blob/master/dic/hd_ar2en_dawran.zip",
+            "name": "[F-A]Radio-Animes",
+            "descript": "France"
+        },
+        {
+            "icon": "https://i3.radionomy.com/radios/400/42aa3bbe-7b37-4bc7-83fa-3523cddb434d.png",
+            "zip": "https://github.com/masterprohd/scleaner/blob/master/dic/hd_sents_ar2en.zip",
+            "name": "[F-A]Radio-Animes",
+            "descript": "France"
+        },
+        {
+            "icon": "https://i3.radionomy.com/radios/400/42aa3bbe-7b37-4bc7-83fa-3523cddb434d.png",
+            "zip": "https://github.com/masterprohd/scleaner/blob/master/dic/hd_sents_en2ar.zip",
+            "name": "[F-A]Radio-Animes",
+            "descript": "France"
+        },
+        {
+            "icon": "https://i3.radionomy.com/radios/400/42aa3bbe-7b37-4bc7-83fa-3523cddb434d.png",
+            "zip": "https://github.com/masterprohd/scleaner/blob/master/dic/Medicine_English_Arabic.zip",
+            "name": "[F-A]Radio-Animes",
+            "descript": "France"
+        },
+        {
+            "icon": "https://i3.radionomy.com/radios/400/42aa3bbe-7b37-4bc7-83fa-3523cddb434d.png",
+            "zip": "https://github.com/masterprohd/scleaner/blob/master/dic/Mukhtar_Al_Sahah_Arabic_Arabic.zip",
+            "name": "[F-A]Radio-Animes",
+            "descript": "France"
+        },
+        {
+            "icon": "https://i3.radionomy.com/radios/400/42aa3bbe-7b37-4bc7-83fa-3523cddb434d.png",
+            "zip": "https://github.com/masterprohd/scleaner/blob/master/dic/Turkce_Arapca.zip",
+            "name": "[F-A]Radio-Animes",
+            "descript": "France"
+        },
+        {
+            "icon": "https://i3.radionomy.com/radios/400/42aa3bbe-7b37-4bc7-83fa-3523cddb434d.png",
+            "zip": "https://github.com/masterprohd/scleaner/blob/master/dic/UMDClick.zip",
+            "name": "[F-A]Radio-Animes",
+            "descript": "France"
+        },
+        {
+            "icon": "https://i3.radionomy.com/radios/400/42aa3bbe-7b37-4bc7-83fa-3523cddb434d.png",
+            "zip": "https://github.com/masterprohd/scleaner/blob/master/dic/Wadan_English_Arabic_Auditing_Terms.zip",
+            "name": "[F-A]Radio-Animes",
+            "descript": "France"
+        }
+    ]
+}
