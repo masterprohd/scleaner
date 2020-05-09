@@ -1,5 +1,4 @@
-"dictionarydownload":{
-    [
+{"dictionarydownload":[
         {
             "icon": "https://i3.radionomy.com/radios/400/42aa3bbe-7b37-4bc7-83fa-3523cddb434d.png",
             "zip": "https://github.com/masterprohd/scleaner/blob/master/dic/Arab2English.zip",
@@ -163,4 +162,5 @@
             "descript": "France"
         }
     ]
+
 }
